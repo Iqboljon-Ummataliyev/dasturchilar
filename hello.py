@@ -1,0 +1,3 @@
+ism = "Iqboljon"
+
+familiya = "Ummataliyev"
